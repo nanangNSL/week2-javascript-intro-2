@@ -1,7 +1,7 @@
 # week2-javascript-intro-2
 ## Keterangan file 💾
 
- <li>10methodjavascript</li>
+ <li>10methodjavascript.js</li>
  <li>callback.js</li>
  <li>cariData.js</li>
  
